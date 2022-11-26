@@ -1,0 +1,7 @@
+Three things the "new" keyword does
+* creates new object
+* returns the object explicitly 
+* links the new object to the prototype object
+
+ES6 Classes
+super, extends
